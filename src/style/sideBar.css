@@ -1,0 +1,17 @@
+.con {
+    background-color: aliceblue;
+    max-width: 30%;
+    width: 30%;
+    padding: 30px;
+}
+
+.item {
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+    .con {
+        max-width: 100%;
+        width: 100%;
+    }
+}
