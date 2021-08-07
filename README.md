@@ -1,3 +1,7 @@
+This is a personal project building a forum
+This is th interface built using React
+<img width="1164" alt="Screenshot 2021-08-07 at 6 06 11 PM" src="https://user-images.githubusercontent.com/60928149/128596651-5d907b6a-3f60-4d2d-98e6-80b97e1a76cf.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
